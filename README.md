@@ -1,6 +1,6 @@
 # Bryce Chesley
 
-**Software Development Engineer** — Burley, Idaho
+**Software Engineer** — Burley, Idaho
 
 I build the software that runs a dairy plant: a Vue 3 operations platform the whole
 company works in, and an MES that turns live plant-floor data into ERP transactions
